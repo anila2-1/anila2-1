@@ -10,7 +10,7 @@ I'm a **Full-Stack Web Developer** and **Educator** with a solid academic backgr
 - **Backend:** Node.js, Express, MongoDB, PayloadCMS
 - **DevOps & Tools:** Docker, Nginx, pnpm, Git, Windows 10
 
-- ### 💻 Tech Stack:
+ ### 💻 Tech Stack:
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
